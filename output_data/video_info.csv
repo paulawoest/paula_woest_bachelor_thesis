@@ -1,0 +1,5 @@
+cohort,mouse_id,fps,total_frame_count,x_bound_left_cd1,x_bound_right_cd1,y_bound_cd1,x_bound_left_bl6,x_bound_right_bl6,y_bound_bl6,xleftT,yleftT,xrightB,yrightB
+
+6,2284,59.94,9107,544,761,276,589,716,165,388.0,53.0,896.0,326.0
+
+7,2542,59.94,9107,657,877,255,702,832,145,532.0,17.0,1014.0,294.0
